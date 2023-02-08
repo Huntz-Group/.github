@@ -1,8 +1,8 @@
 ## Hi there 👋
-🙋‍♀️ A short introduction - we like open sourcing
-👩‍💻 Useful resources - we provide wide range open source project from beginer to the geek
-🍿 Fun facts - just want to contribute back to the community
-🧙 All start with commit, add, and push.
+🙋‍♀️ A short introduction - we like open sourcing <br>
+👩‍💻 Useful resources - we provide wide range open source project from beginer to the geek <br>
+🍿 Fun facts - just want to contribute back to the community <br>
+🧙 All start with commit, add, and push <br>
 <!--
 
 **Here are some ideas to get you started:**
